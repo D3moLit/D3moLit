@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="betcher-design-logo.svg" alt="Betcher Design" width="260">
+  <img src="betcher-design-logo.jpg" alt="Betcher Design" width="200">
 
   # Betcher Design
 
